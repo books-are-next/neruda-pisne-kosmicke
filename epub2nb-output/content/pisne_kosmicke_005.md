@@ -1,0 +1,6 @@
+---
+contentType: prose
+---
+
+PODŘIPSKU  
+věnováno

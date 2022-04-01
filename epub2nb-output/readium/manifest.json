@@ -1,0 +1,383 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Písně kosmické",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Jan Neruda",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2022-01-07T00:00:00.000Z",
+    "published": "2022-01-06T14:05:56.000Z",
+    "description": "Městská knihovna v Praze",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.1",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pisne_kosmicke_045.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image003.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image004.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/OBALKA01-0004625022.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "I.",
+      "href": "OEBPS/Text/pisne_kosmicke_007.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "II.",
+      "href": "OEBPS/Text/pisne_kosmicke_008.xhtml#_idParaDest-2"
+    },
+    {
+      "title": "III.",
+      "href": "OEBPS/Text/pisne_kosmicke_009.xhtml#_idParaDest-3"
+    },
+    {
+      "title": "IV.",
+      "href": "OEBPS/Text/pisne_kosmicke_010.xhtml#_idParaDest-4"
+    },
+    {
+      "title": "V.",
+      "href": "OEBPS/Text/pisne_kosmicke_011.xhtml#_idParaDest-5"
+    },
+    {
+      "title": "VI.",
+      "href": "OEBPS/Text/pisne_kosmicke_012.xhtml#_idParaDest-6"
+    },
+    {
+      "title": "VII.",
+      "href": "OEBPS/Text/pisne_kosmicke_013.xhtml#_idParaDest-7"
+    },
+    {
+      "title": "VIII.",
+      "href": "OEBPS/Text/pisne_kosmicke_014.xhtml#_idParaDest-8"
+    },
+    {
+      "title": "IX.",
+      "href": "OEBPS/Text/pisne_kosmicke_015.xhtml#_idParaDest-9"
+    },
+    {
+      "title": "X.",
+      "href": "OEBPS/Text/pisne_kosmicke_016.xhtml#_idParaDest-10"
+    },
+    {
+      "title": "XI.",
+      "href": "OEBPS/Text/pisne_kosmicke_017.xhtml#_idParaDest-11"
+    },
+    {
+      "title": "XII.",
+      "href": "OEBPS/Text/pisne_kosmicke_018.xhtml#_idParaDest-12"
+    },
+    {
+      "title": "XIII.",
+      "href": "OEBPS/Text/pisne_kosmicke_019.xhtml#_idParaDest-13"
+    },
+    {
+      "title": "XIV.",
+      "href": "OEBPS/Text/pisne_kosmicke_020.xhtml#_idParaDest-14"
+    },
+    {
+      "title": "XV.",
+      "href": "OEBPS/Text/pisne_kosmicke_021.xhtml#_idParaDest-15"
+    },
+    {
+      "title": "XVI.",
+      "href": "OEBPS/Text/pisne_kosmicke_022.xhtml#_idParaDest-16"
+    },
+    {
+      "title": "XVII.",
+      "href": "OEBPS/Text/pisne_kosmicke_023.xhtml#_idParaDest-17"
+    },
+    {
+      "title": "XVIII.",
+      "href": "OEBPS/Text/pisne_kosmicke_024.xhtml#_idParaDest-18"
+    },
+    {
+      "title": "XIX.",
+      "href": "OEBPS/Text/pisne_kosmicke_025.xhtml#_idParaDest-19"
+    },
+    {
+      "title": "XX.",
+      "href": "OEBPS/Text/pisne_kosmicke_026.xhtml#_idParaDest-20"
+    },
+    {
+      "title": "XXI.",
+      "href": "OEBPS/Text/pisne_kosmicke_027.xhtml#_idParaDest-21"
+    },
+    {
+      "title": "XXII.",
+      "href": "OEBPS/Text/pisne_kosmicke_028.xhtml#_idParaDest-22"
+    },
+    {
+      "title": "XXIII.",
+      "href": "OEBPS/Text/pisne_kosmicke_029.xhtml#_idParaDest-23"
+    },
+    {
+      "title": "XXIV.",
+      "href": "OEBPS/Text/pisne_kosmicke_030.xhtml#_idParaDest-24"
+    },
+    {
+      "title": "XXV.",
+      "href": "OEBPS/Text/pisne_kosmicke_031.xhtml#_idParaDest-25"
+    },
+    {
+      "title": "XXVI.",
+      "href": "OEBPS/Text/pisne_kosmicke_032.xhtml#_idParaDest-26"
+    },
+    {
+      "title": "XXVII.",
+      "href": "OEBPS/Text/pisne_kosmicke_033.xhtml#_idParaDest-27"
+    },
+    {
+      "title": "XXVIII.",
+      "href": "OEBPS/Text/pisne_kosmicke_034.xhtml#_idParaDest-28"
+    },
+    {
+      "title": "XXIX.",
+      "href": "OEBPS/Text/pisne_kosmicke_035.xhtml#_idParaDest-29"
+    },
+    {
+      "title": "XXX.",
+      "href": "OEBPS/Text/pisne_kosmicke_036.xhtml#_idParaDest-30"
+    },
+    {
+      "title": "XXXI.",
+      "href": "OEBPS/Text/pisne_kosmicke_037.xhtml#_idParaDest-31"
+    },
+    {
+      "title": "XXXII.",
+      "href": "OEBPS/Text/pisne_kosmicke_038.xhtml#_idParaDest-32"
+    },
+    {
+      "title": "XXXIII.",
+      "href": "OEBPS/Text/pisne_kosmicke_039.xhtml#_idParaDest-33"
+    },
+    {
+      "title": "XXXIV.",
+      "href": "OEBPS/Text/pisne_kosmicke_040.xhtml#_idParaDest-34"
+    },
+    {
+      "title": "XXXV.",
+      "href": "OEBPS/Text/pisne_kosmicke_041.xhtml#_idParaDest-35"
+    },
+    {
+      "title": "XXXVI.",
+      "href": "OEBPS/Text/pisne_kosmicke_042.xhtml#_idParaDest-36"
+    },
+    {
+      "title": "XXXVII.",
+      "href": "OEBPS/Text/pisne_kosmicke_043.xhtml#_idParaDest-37"
+    },
+    {
+      "title": "XXXVIII.",
+      "href": "OEBPS/Text/pisne_kosmicke_044.xhtml#_idParaDest-38"
+    }
+  ]
+}
