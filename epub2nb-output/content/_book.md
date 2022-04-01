@@ -2,18 +2,18 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
+  contentType: poetry
   title: Písně kosmické
   identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
   author: Jan Neruda
   publisher: Městská knihovna v Praze
   modified: '2022-01-07T00:00:00.000Z'
+  publisherShort: mkp
 readingOrder:
-  - pisne_kosmicke_001.html
   - pisne_kosmicke_002.html
-  - pisne_kosmicke_003.html
-  - pisne_kosmicke_004.html
   - pisne_kosmicke_005.html
   - pisne_kosmicke_006.html
   - pisne_kosmicke_007.html
@@ -54,11 +54,15 @@ readingOrder:
   - pisne_kosmicke_042.html
   - pisne_kosmicke_043.html
   - pisne_kosmicke_044.html
-  - pisne_kosmicke_045.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: pisne_kosmicke_005.html
+        title: Věnování
+        hiddenTitle: true
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

@@ -1,6 +1,8 @@
 ---
+title: ''
+hiddenTitle: true
 contentType: prose
 ---
 
-PODŘIPSKU  
-věnováno
+_PODŘIPSKU  
+věnováno_

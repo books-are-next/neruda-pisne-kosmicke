@@ -1,0 +1,869 @@
+{
+  "author": "Jan Neruda",
+  "contenttype": "poetry",
+  "identifier": "neruda-pisne-kosmicke-08ff9db",
+  "languagecode": "cs",
+  "modified": "2022-01-07T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Písně kosmické",
+  "revision": "08ff9db",
+  "generatedAt": {
+    "date": "Fri Apr 01 2022 11:09:51 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1648811391779
+  },
+  "documents": [
+    {
+      "title": "Písně kosmické",
+      "file": "pisne_kosmicke_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "pisne_kosmicke_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Písně kosmické",
+      "file": "pisne_kosmicke_005.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "pisne_kosmicke_002.html",
+      "next": "pisne_kosmicke_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Písně kosmické",
+      "file": "pisne_kosmicke_006.html",
+      "words": 24,
+      "chars": 129,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 2,
+      "prev": "pisne_kosmicke_005.html",
+      "next": "pisne_kosmicke_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I. • Písně kosmické",
+      "file": "pisne_kosmicke_007.html",
+      "words": 45,
+      "chars": 264,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 3,
+      "prev": "pisne_kosmicke_006.html",
+      "next": "pisne_kosmicke_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II. • Písně kosmické",
+      "file": "pisne_kosmicke_008.html",
+      "words": 41,
+      "chars": 222,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 4,
+      "prev": "pisne_kosmicke_007.html",
+      "next": "pisne_kosmicke_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III. • Písně kosmické",
+      "file": "pisne_kosmicke_009.html",
+      "words": 134,
+      "chars": 642,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 5,
+      "prev": "pisne_kosmicke_008.html",
+      "next": "pisne_kosmicke_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IV. • Písně kosmické",
+      "file": "pisne_kosmicke_010.html",
+      "words": 64,
+      "chars": 338,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 6,
+      "prev": "pisne_kosmicke_009.html",
+      "next": "pisne_kosmicke_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V. • Písně kosmické",
+      "file": "pisne_kosmicke_011.html",
+      "words": 151,
+      "chars": 780,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 7,
+      "prev": "pisne_kosmicke_010.html",
+      "next": "pisne_kosmicke_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VI. • Písně kosmické",
+      "file": "pisne_kosmicke_012.html",
+      "words": 48,
+      "chars": 264,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 8,
+      "prev": "pisne_kosmicke_011.html",
+      "next": "pisne_kosmicke_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VII. • Písně kosmické",
+      "file": "pisne_kosmicke_013.html",
+      "words": 115,
+      "chars": 588,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 9,
+      "prev": "pisne_kosmicke_012.html",
+      "next": "pisne_kosmicke_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VIII. • Písně kosmické",
+      "file": "pisne_kosmicke_014.html",
+      "words": 304,
+      "chars": 1554,
+      "ideas": 44,
+      "role": "chapter",
+      "order": 10,
+      "prev": "pisne_kosmicke_013.html",
+      "next": "pisne_kosmicke_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IX. • Písně kosmické",
+      "file": "pisne_kosmicke_015.html",
+      "words": 64,
+      "chars": 343,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 11,
+      "prev": "pisne_kosmicke_014.html",
+      "next": "pisne_kosmicke_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IX.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "X. • Písně kosmické",
+      "file": "pisne_kosmicke_016.html",
+      "words": 93,
+      "chars": 479,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 12,
+      "prev": "pisne_kosmicke_015.html",
+      "next": "pisne_kosmicke_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "X.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XI. • Písně kosmické",
+      "file": "pisne_kosmicke_017.html",
+      "words": 292,
+      "chars": 1563,
+      "ideas": 61,
+      "role": "chapter",
+      "order": 13,
+      "prev": "pisne_kosmicke_016.html",
+      "next": "pisne_kosmicke_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XII. • Písně kosmické",
+      "file": "pisne_kosmicke_018.html",
+      "words": 33,
+      "chars": 178,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 14,
+      "prev": "pisne_kosmicke_017.html",
+      "next": "pisne_kosmicke_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIII. • Písně kosmické",
+      "file": "pisne_kosmicke_019.html",
+      "words": 68,
+      "chars": 363,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 15,
+      "prev": "pisne_kosmicke_018.html",
+      "next": "pisne_kosmicke_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIV. • Písně kosmické",
+      "file": "pisne_kosmicke_020.html",
+      "words": 110,
+      "chars": 543,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 16,
+      "prev": "pisne_kosmicke_019.html",
+      "next": "pisne_kosmicke_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XV. • Písně kosmické",
+      "file": "pisne_kosmicke_021.html",
+      "words": 93,
+      "chars": 463,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 17,
+      "prev": "pisne_kosmicke_020.html",
+      "next": "pisne_kosmicke_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVI. • Písně kosmické",
+      "file": "pisne_kosmicke_022.html",
+      "words": 75,
+      "chars": 363,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 18,
+      "prev": "pisne_kosmicke_021.html",
+      "next": "pisne_kosmicke_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVII. • Písně kosmické",
+      "file": "pisne_kosmicke_023.html",
+      "words": 44,
+      "chars": 233,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 19,
+      "prev": "pisne_kosmicke_022.html",
+      "next": "pisne_kosmicke_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVIII. • Písně kosmické",
+      "file": "pisne_kosmicke_024.html",
+      "words": 289,
+      "chars": 1538,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 20,
+      "prev": "pisne_kosmicke_023.html",
+      "next": "pisne_kosmicke_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIX. • Písně kosmické",
+      "file": "pisne_kosmicke_025.html",
+      "words": 74,
+      "chars": 450,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 21,
+      "prev": "pisne_kosmicke_024.html",
+      "next": "pisne_kosmicke_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIX.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XX. • Písně kosmické",
+      "file": "pisne_kosmicke_026.html",
+      "words": 48,
+      "chars": 255,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 22,
+      "prev": "pisne_kosmicke_025.html",
+      "next": "pisne_kosmicke_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XX.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXI. • Písně kosmické",
+      "file": "pisne_kosmicke_027.html",
+      "words": 99,
+      "chars": 519,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 23,
+      "prev": "pisne_kosmicke_026.html",
+      "next": "pisne_kosmicke_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXII. • Písně kosmické",
+      "file": "pisne_kosmicke_028.html",
+      "words": 223,
+      "chars": 1240,
+      "ideas": 53,
+      "role": "chapter",
+      "order": 24,
+      "prev": "pisne_kosmicke_027.html",
+      "next": "pisne_kosmicke_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIII. • Písně kosmické",
+      "file": "pisne_kosmicke_029.html",
+      "words": 108,
+      "chars": 587,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 25,
+      "prev": "pisne_kosmicke_028.html",
+      "next": "pisne_kosmicke_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIV. • Písně kosmické",
+      "file": "pisne_kosmicke_030.html",
+      "words": 94,
+      "chars": 489,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 26,
+      "prev": "pisne_kosmicke_029.html",
+      "next": "pisne_kosmicke_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXV. • Písně kosmické",
+      "file": "pisne_kosmicke_031.html",
+      "words": 58,
+      "chars": 314,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 27,
+      "prev": "pisne_kosmicke_030.html",
+      "next": "pisne_kosmicke_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXVI. • Písně kosmické",
+      "file": "pisne_kosmicke_032.html",
+      "words": 82,
+      "chars": 418,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 28,
+      "prev": "pisne_kosmicke_031.html",
+      "next": "pisne_kosmicke_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXVI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXVII. • Písně kosmické",
+      "file": "pisne_kosmicke_033.html",
+      "words": 73,
+      "chars": 384,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 29,
+      "prev": "pisne_kosmicke_032.html",
+      "next": "pisne_kosmicke_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXVII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXVIII. • Písně kosmické",
+      "file": "pisne_kosmicke_034.html",
+      "words": 62,
+      "chars": 304,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 30,
+      "prev": "pisne_kosmicke_033.html",
+      "next": "pisne_kosmicke_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXVIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIX. • Písně kosmické",
+      "file": "pisne_kosmicke_035.html",
+      "words": 59,
+      "chars": 350,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 31,
+      "prev": "pisne_kosmicke_034.html",
+      "next": "pisne_kosmicke_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIX.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXX. • Písně kosmické",
+      "file": "pisne_kosmicke_036.html",
+      "words": 84,
+      "chars": 443,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 32,
+      "prev": "pisne_kosmicke_035.html",
+      "next": "pisne_kosmicke_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXX.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXI. • Písně kosmické",
+      "file": "pisne_kosmicke_037.html",
+      "words": 90,
+      "chars": 482,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 33,
+      "prev": "pisne_kosmicke_036.html",
+      "next": "pisne_kosmicke_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXII. • Písně kosmické",
+      "file": "pisne_kosmicke_038.html",
+      "words": 101,
+      "chars": 554,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 34,
+      "prev": "pisne_kosmicke_037.html",
+      "next": "pisne_kosmicke_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXIII. • Písně kosmické",
+      "file": "pisne_kosmicke_039.html",
+      "words": 80,
+      "chars": 434,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 35,
+      "prev": "pisne_kosmicke_038.html",
+      "next": "pisne_kosmicke_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXIV. • Písně kosmické",
+      "file": "pisne_kosmicke_040.html",
+      "words": 292,
+      "chars": 1449,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 36,
+      "prev": "pisne_kosmicke_039.html",
+      "next": "pisne_kosmicke_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXIV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXV. • Písně kosmické",
+      "file": "pisne_kosmicke_041.html",
+      "words": 191,
+      "chars": 1066,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 37,
+      "prev": "pisne_kosmicke_040.html",
+      "next": "pisne_kosmicke_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXVI. • Písně kosmické",
+      "file": "pisne_kosmicke_042.html",
+      "words": 110,
+      "chars": 651,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 38,
+      "prev": "pisne_kosmicke_041.html",
+      "next": "pisne_kosmicke_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXVI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXVII. • Písně kosmické",
+      "file": "pisne_kosmicke_043.html",
+      "words": 100,
+      "chars": 560,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 39,
+      "prev": "pisne_kosmicke_042.html",
+      "next": "pisne_kosmicke_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXVII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXVIII. • Písně kosmické",
+      "file": "pisne_kosmicke_044.html",
+      "words": 127,
+      "chars": 696,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 40,
+      "prev": "pisne_kosmicke_043.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXVIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Písně kosmické",
+      "file": "colophon.html",
+      "words": 139,
+      "chars": 881,
+      "ideas": 22,
+      "role": "colophon",
+      "order": null,
+      "prev": "pisne_kosmicke_044.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 4386,
+      "chars": 23400,
+      "ideas": 894
+    },
+    "chapters": {
+      "words": 4242,
+      "chars": 22492,
+      "ideas": 869
+    }
+  }
+}
