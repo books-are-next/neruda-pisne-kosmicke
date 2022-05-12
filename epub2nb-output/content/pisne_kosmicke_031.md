@@ -1,5 +1,5 @@
 ---
-title: XXV.
+title: XXV\.
 contentType: prose
 ---
 

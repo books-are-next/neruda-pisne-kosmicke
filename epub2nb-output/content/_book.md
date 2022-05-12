@@ -13,7 +13,7 @@ meta:
   modified: '2022-01-07T00:00:00.000Z'
   publisherShort: mkp
 readingOrder:
-  - pisne_kosmicke_002.html
+  - promo.html
   - pisne_kosmicke_005.html
   - pisne_kosmicke_006.html
   - pisne_kosmicke_007.html

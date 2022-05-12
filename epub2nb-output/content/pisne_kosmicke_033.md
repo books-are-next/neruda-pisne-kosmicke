@@ -1,5 +1,5 @@
 ---
-title: XXVII.
+title: XXVII\.
 contentType: prose
 ---
 

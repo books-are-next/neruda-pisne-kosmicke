@@ -1,5 +1,5 @@
 ---
-title: IX.
+title: IX\.
 contentType: prose
 ---
 

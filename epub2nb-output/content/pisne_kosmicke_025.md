@@ -1,5 +1,5 @@
 ---
-title: XIX.
+title: XIX\.
 contentType: prose
 ---
 

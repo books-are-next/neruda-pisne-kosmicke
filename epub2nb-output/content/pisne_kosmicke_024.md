@@ -1,5 +1,5 @@
 ---
-title: XVIII.
+title: XVIII\.
 contentType: prose
 ---
 

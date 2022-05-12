@@ -1,21 +1,66 @@
 {
-  "author": "Jan Neruda",
-  "contenttype": "poetry",
-  "identifier": "neruda-pisne-kosmicke-af31602",
-  "languagecode": "cs",
-  "modified": "2022-01-07T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Písně kosmické",
-  "revision": "af31602",
+  "author": "Jan Neruda",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "neruda-pisne-kosmicke-52fb272",
+  "revision": "52fb272",
+  "readingOrder": [
+    "promo.html",
+    "pisne_kosmicke_005.html",
+    "pisne_kosmicke_006.html",
+    "pisne_kosmicke_007.html",
+    "pisne_kosmicke_008.html",
+    "pisne_kosmicke_009.html",
+    "pisne_kosmicke_010.html",
+    "pisne_kosmicke_011.html",
+    "pisne_kosmicke_012.html",
+    "pisne_kosmicke_013.html",
+    "pisne_kosmicke_014.html",
+    "pisne_kosmicke_015.html",
+    "pisne_kosmicke_016.html",
+    "pisne_kosmicke_017.html",
+    "pisne_kosmicke_018.html",
+    "pisne_kosmicke_019.html",
+    "pisne_kosmicke_020.html",
+    "pisne_kosmicke_021.html",
+    "pisne_kosmicke_022.html",
+    "pisne_kosmicke_023.html",
+    "pisne_kosmicke_024.html",
+    "pisne_kosmicke_025.html",
+    "pisne_kosmicke_026.html",
+    "pisne_kosmicke_027.html",
+    "pisne_kosmicke_028.html",
+    "pisne_kosmicke_029.html",
+    "pisne_kosmicke_030.html",
+    "pisne_kosmicke_031.html",
+    "pisne_kosmicke_032.html",
+    "pisne_kosmicke_033.html",
+    "pisne_kosmicke_034.html",
+    "pisne_kosmicke_035.html",
+    "pisne_kosmicke_036.html",
+    "pisne_kosmicke_037.html",
+    "pisne_kosmicke_038.html",
+    "pisne_kosmicke_039.html",
+    "pisne_kosmicke_040.html",
+    "pisne_kosmicke_041.html",
+    "pisne_kosmicke_042.html",
+    "pisne_kosmicke_043.html",
+    "pisne_kosmicke_044.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Fri Apr 01 2022 11:19:06 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1648811946725
+    "date": "Thu May 12 2022 10:41:46 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352106708
   },
   "documents": [
     {
-      "title": "Písně kosmické",
-      "file": "pisne_kosmicke_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,15 +68,7 @@
       "order": 0,
       "prev": null,
       "next": "pisne_kosmicke_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Písně kosmické",
@@ -41,7 +78,7 @@
       "ideas": 0,
       "role": "chapter",
       "order": 1,
-      "prev": "pisne_kosmicke_002.html",
+      "prev": "promo.html",
       "next": "pisne_kosmicke_006.html",
       "toc": [
         {
@@ -74,7 +111,7 @@
       ]
     },
     {
-      "title": "I. • Písně kosmické",
+      "title": "I.",
       "file": "pisne_kosmicke_007.html",
       "words": 45,
       "chars": 264,
@@ -94,7 +131,7 @@
       ]
     },
     {
-      "title": "II. • Písně kosmické",
+      "title": "II.",
       "file": "pisne_kosmicke_008.html",
       "words": 41,
       "chars": 222,
@@ -114,7 +151,7 @@
       ]
     },
     {
-      "title": "III. • Písně kosmické",
+      "title": "III.",
       "file": "pisne_kosmicke_009.html",
       "words": 134,
       "chars": 642,
@@ -134,7 +171,7 @@
       ]
     },
     {
-      "title": "IV. • Písně kosmické",
+      "title": "IV.",
       "file": "pisne_kosmicke_010.html",
       "words": 64,
       "chars": 338,
@@ -154,7 +191,7 @@
       ]
     },
     {
-      "title": "V. • Písně kosmické",
+      "title": "V.",
       "file": "pisne_kosmicke_011.html",
       "words": 151,
       "chars": 780,
@@ -174,7 +211,7 @@
       ]
     },
     {
-      "title": "VI. • Písně kosmické",
+      "title": "VI.",
       "file": "pisne_kosmicke_012.html",
       "words": 48,
       "chars": 264,
@@ -194,7 +231,7 @@
       ]
     },
     {
-      "title": "VII. • Písně kosmické",
+      "title": "VII.",
       "file": "pisne_kosmicke_013.html",
       "words": 115,
       "chars": 588,
@@ -214,7 +251,7 @@
       ]
     },
     {
-      "title": "VIII. • Písně kosmické",
+      "title": "VIII.",
       "file": "pisne_kosmicke_014.html",
       "words": 304,
       "chars": 1554,
@@ -234,7 +271,7 @@
       ]
     },
     {
-      "title": "IX. • Písně kosmické",
+      "title": "IX.",
       "file": "pisne_kosmicke_015.html",
       "words": 64,
       "chars": 343,
@@ -254,7 +291,7 @@
       ]
     },
     {
-      "title": "X. • Písně kosmické",
+      "title": "X.",
       "file": "pisne_kosmicke_016.html",
       "words": 93,
       "chars": 479,
@@ -274,7 +311,7 @@
       ]
     },
     {
-      "title": "XI. • Písně kosmické",
+      "title": "XI.",
       "file": "pisne_kosmicke_017.html",
       "words": 292,
       "chars": 1563,
@@ -294,7 +331,7 @@
       ]
     },
     {
-      "title": "XII. • Písně kosmické",
+      "title": "XII.",
       "file": "pisne_kosmicke_018.html",
       "words": 33,
       "chars": 178,
@@ -314,7 +351,7 @@
       ]
     },
     {
-      "title": "XIII. • Písně kosmické",
+      "title": "XIII.",
       "file": "pisne_kosmicke_019.html",
       "words": 68,
       "chars": 363,
@@ -334,7 +371,7 @@
       ]
     },
     {
-      "title": "XIV. • Písně kosmické",
+      "title": "XIV.",
       "file": "pisne_kosmicke_020.html",
       "words": 110,
       "chars": 543,
@@ -354,7 +391,7 @@
       ]
     },
     {
-      "title": "XV. • Písně kosmické",
+      "title": "XV.",
       "file": "pisne_kosmicke_021.html",
       "words": 93,
       "chars": 463,
@@ -374,7 +411,7 @@
       ]
     },
     {
-      "title": "XVI. • Písně kosmické",
+      "title": "XVI.",
       "file": "pisne_kosmicke_022.html",
       "words": 75,
       "chars": 363,
@@ -394,7 +431,7 @@
       ]
     },
     {
-      "title": "XVII. • Písně kosmické",
+      "title": "XVII.",
       "file": "pisne_kosmicke_023.html",
       "words": 44,
       "chars": 233,
@@ -414,7 +451,7 @@
       ]
     },
     {
-      "title": "XVIII. • Písně kosmické",
+      "title": "XVIII.",
       "file": "pisne_kosmicke_024.html",
       "words": 289,
       "chars": 1538,
@@ -434,7 +471,7 @@
       ]
     },
     {
-      "title": "XIX. • Písně kosmické",
+      "title": "XIX.",
       "file": "pisne_kosmicke_025.html",
       "words": 74,
       "chars": 450,
@@ -454,7 +491,7 @@
       ]
     },
     {
-      "title": "XX. • Písně kosmické",
+      "title": "XX.",
       "file": "pisne_kosmicke_026.html",
       "words": 48,
       "chars": 255,
@@ -474,7 +511,7 @@
       ]
     },
     {
-      "title": "XXI. • Písně kosmické",
+      "title": "XXI.",
       "file": "pisne_kosmicke_027.html",
       "words": 99,
       "chars": 519,
@@ -494,7 +531,7 @@
       ]
     },
     {
-      "title": "XXII. • Písně kosmické",
+      "title": "XXII.",
       "file": "pisne_kosmicke_028.html",
       "words": 223,
       "chars": 1240,
@@ -514,7 +551,7 @@
       ]
     },
     {
-      "title": "XXIII. • Písně kosmické",
+      "title": "XXIII.",
       "file": "pisne_kosmicke_029.html",
       "words": 108,
       "chars": 587,
@@ -534,7 +571,7 @@
       ]
     },
     {
-      "title": "XXIV. • Písně kosmické",
+      "title": "XXIV.",
       "file": "pisne_kosmicke_030.html",
       "words": 94,
       "chars": 489,
@@ -554,7 +591,7 @@
       ]
     },
     {
-      "title": "XXV. • Písně kosmické",
+      "title": "XXV.",
       "file": "pisne_kosmicke_031.html",
       "words": 58,
       "chars": 314,
@@ -574,7 +611,7 @@
       ]
     },
     {
-      "title": "XXVI. • Písně kosmické",
+      "title": "XXVI.",
       "file": "pisne_kosmicke_032.html",
       "words": 82,
       "chars": 418,
@@ -594,7 +631,7 @@
       ]
     },
     {
-      "title": "XXVII. • Písně kosmické",
+      "title": "XXVII.",
       "file": "pisne_kosmicke_033.html",
       "words": 73,
       "chars": 384,
@@ -614,7 +651,7 @@
       ]
     },
     {
-      "title": "XXVIII. • Písně kosmické",
+      "title": "XXVIII.",
       "file": "pisne_kosmicke_034.html",
       "words": 62,
       "chars": 304,
@@ -634,7 +671,7 @@
       ]
     },
     {
-      "title": "XXIX. • Písně kosmické",
+      "title": "XXIX.",
       "file": "pisne_kosmicke_035.html",
       "words": 59,
       "chars": 350,
@@ -654,7 +691,7 @@
       ]
     },
     {
-      "title": "XXX. • Písně kosmické",
+      "title": "XXX.",
       "file": "pisne_kosmicke_036.html",
       "words": 84,
       "chars": 443,
@@ -674,7 +711,7 @@
       ]
     },
     {
-      "title": "XXXI. • Písně kosmické",
+      "title": "XXXI.",
       "file": "pisne_kosmicke_037.html",
       "words": 90,
       "chars": 482,
@@ -694,7 +731,7 @@
       ]
     },
     {
-      "title": "XXXII. • Písně kosmické",
+      "title": "XXXII.",
       "file": "pisne_kosmicke_038.html",
       "words": 101,
       "chars": 554,
@@ -714,7 +751,7 @@
       ]
     },
     {
-      "title": "XXXIII. • Písně kosmické",
+      "title": "XXXIII.",
       "file": "pisne_kosmicke_039.html",
       "words": 80,
       "chars": 434,
@@ -734,7 +771,7 @@
       ]
     },
     {
-      "title": "XXXIV. • Písně kosmické",
+      "title": "XXXIV.",
       "file": "pisne_kosmicke_040.html",
       "words": 292,
       "chars": 1449,
@@ -754,7 +791,7 @@
       ]
     },
     {
-      "title": "XXXV. • Písně kosmické",
+      "title": "XXXV.",
       "file": "pisne_kosmicke_041.html",
       "words": 191,
       "chars": 1066,
@@ -774,7 +811,7 @@
       ]
     },
     {
-      "title": "XXXVI. • Písně kosmické",
+      "title": "XXXVI.",
       "file": "pisne_kosmicke_042.html",
       "words": 110,
       "chars": 651,
@@ -794,7 +831,7 @@
       ]
     },
     {
-      "title": "XXXVII. • Písně kosmické",
+      "title": "XXXVII.",
       "file": "pisne_kosmicke_043.html",
       "words": 100,
       "chars": 560,
@@ -814,7 +851,7 @@
       ]
     },
     {
-      "title": "XXXVIII. • Písně kosmické",
+      "title": "XXXVIII.",
       "file": "pisne_kosmicke_044.html",
       "words": 127,
       "chars": 696,
@@ -834,11 +871,11 @@
       ]
     },
     {
-      "title": "Tiráž • Písně kosmické",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 139,
-      "chars": 881,
-      "ideas": 22,
+      "words": 121,
+      "chars": 749,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "pisne_kosmicke_044.html",
@@ -856,9 +893,9 @@
   ],
   "totals": {
     "all": {
-      "words": 4386,
-      "chars": 23400,
-      "ideas": 894
+      "words": 4368,
+      "chars": 23268,
+      "ideas": 889
     },
     "chapters": {
       "words": 4242,

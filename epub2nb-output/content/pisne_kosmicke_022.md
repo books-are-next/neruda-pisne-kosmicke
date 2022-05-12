@@ -1,5 +1,5 @@
 ---
-title: XVI.
+title: XVI\.
 contentType: prose
 ---
 
