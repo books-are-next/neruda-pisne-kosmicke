@@ -1,5 +1,5 @@
 ---
-title: XV.
+title: XV\.
 contentType: prose
 ---
 

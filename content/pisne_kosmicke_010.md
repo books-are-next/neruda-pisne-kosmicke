@@ -1,5 +1,5 @@
 ---
-title: IV.
+title: IV\.
 contentType: prose
 ---
 

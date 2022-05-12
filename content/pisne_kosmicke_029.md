@@ -1,5 +1,5 @@
 ---
-title: XXIII.
+title: XXIII\.
 contentType: prose
 ---
 

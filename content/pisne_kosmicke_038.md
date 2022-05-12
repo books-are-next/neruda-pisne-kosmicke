@@ -1,5 +1,5 @@
 ---
-title: XXXII.
+title: XXXII\.
 contentType: prose
 ---
 

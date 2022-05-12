@@ -1,5 +1,5 @@
 ---
-title: VI.
+title: VI\.
 contentType: prose
 ---
 

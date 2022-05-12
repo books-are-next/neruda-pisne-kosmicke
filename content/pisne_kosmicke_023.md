@@ -1,5 +1,5 @@
 ---
-title: XVII.
+title: XVII\.
 contentType: prose
 ---
 
