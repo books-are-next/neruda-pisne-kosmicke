@@ -3,12 +3,16 @@ title: XVIII\.
 contentType: poetry
 ---
 
-     Měsíc mrtev. Při něm ve prodlení  
+<section>
+
+Měsíc mrtev. Při něm ve prodlení  
 den se s nocí střídá jak dvé mnichů,  
 jak dvé mnichů, ne víc ku obsluze,  
 jen co mrtvých stráže na modlení.
 
-  
+</section>
+
+<section>
 
      Střídají se v svatém, hlubném tichu,  
 beze smavých červánkových hříček:  
@@ -46,7 +50,9 @@ zima, zima, mráz až v báj rostoucí —
      v jednom trhlo by se okamžení,  
      ale není tam to srdce — není!
 
-  
+</section>
+
+<section>
 
      Měsíc mrtev. Siná jeho stále  
 tvář sem na nás hledí v stejném příznaku,  
@@ -56,3 +62,5 @@ světla slavně kolem něho víří —
 Měsíčku, by bylo citného ti zoru,  
 dnem i nocí zřel bys na obzoru  
 vdovu Zemi vlhkém ve šlojíři.
+
+</section>

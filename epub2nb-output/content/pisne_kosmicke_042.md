@@ -3,6 +3,8 @@ title: XXXVI\.
 contentType: poetry
 ---
 
+<section>
+
 Aj, tamhle dřímavých jiskerek,  
 jak když rukou rozhodí květů,  
 to letí prostorou kometa,  
@@ -12,7 +14,9 @@ kostnice umrlých světů.
      v ní veliký obsah, málo slov:  
      „Ty popel jsi, popel budeš!“
 
-  
+</section>
+
+<section>
 
 A tamhle zásvit zas jako sen,  
 jak když den se rozbřesknout bojí,  
@@ -23,7 +27,9 @@ v nebeském zákoutí pojí.
      jakž ku srdci sáhá píseň tvá:  
      „Zas vstanete s lící skvoucí!“
 
-  
+</section>
+
+<section>
 
 Ó hvězdy, hymny vy zářivé,  
 naslouchám vám v roznětu svatém,  
@@ -33,3 +39,5 @@ duši mi plníte zlatem!
      nesmrtelnosti kvítím —  
      co potřebuju já věčným být,  
      když věčnost již teď procítím!
+
+</section>

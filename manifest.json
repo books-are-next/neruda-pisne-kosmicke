@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "neruda-pisne-kosmicke-0dee1fd",
-  "revision": "0dee1fd",
+  "identifier": "neruda-pisne-kosmicke-daeb08a",
+  "revision": "daeb08a",
   "readingOrder": [
     "promo.html",
     "pisne_kosmicke_005.html",
@@ -54,8 +54,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:18:55 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870735068
+    "date": "Fri Jun 10 2022 17:53:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883597475
   },
   "documents": [
     {
@@ -73,9 +73,9 @@
     {
       "title": "Písně kosmické",
       "file": "pisne_kosmicke_005.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 2,
+      "chars": 17,
+      "ideas": 2,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -873,9 +873,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 116,
-      "chars": 716,
-      "ideas": 16,
+      "words": 83,
+      "chars": 540,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "pisne_kosmicke_044.html",
@@ -893,14 +893,14 @@
   ],
   "totals": {
     "all": {
-      "words": 4363,
-      "chars": 23235,
-      "ideas": 888
+      "words": 4332,
+      "chars": 23076,
+      "ideas": 881
     },
     "chapters": {
-      "words": 4242,
-      "chars": 22492,
-      "ideas": 869
+      "words": 4244,
+      "chars": 22509,
+      "ideas": 871
     }
   }
 }

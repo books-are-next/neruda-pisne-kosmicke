@@ -3,6 +3,8 @@ title: XXVI\.
 contentType: poetry
 ---
 
+<section>
+
 Vzhůru již hlavu, národe,  
 k nebi své vzdvihni oči!  
 Viz: jsou tam i malé hvězdičky,  
@@ -12,7 +14,9 @@ kol nichž se velké točí!
      ale ty velké a poslušné  
      jen z plynových jsou hadrů.
 
-  
+</section>
+
+<section>
 
 Troufám, že při té myšlénce  
 srdce ti povyskočí —  
@@ -22,3 +26,5 @@ kol níž se velké točí!
      k vlastnímu dobře jádru:  
      bude-li každý z nás z křemene,  
      je celý národ z kvádrů!
+
+</section>

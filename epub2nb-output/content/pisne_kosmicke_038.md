@@ -3,6 +3,8 @@ title: XXXII\.
 contentType: poetry
 ---
 
+<section>
+
 Myslím, že malý Měsíček  
 poety měl jen malé,  
 naše že Země veliká  
@@ -12,7 +14,9 @@ poety má již krále.
      jaká tam budou srdce as,  
      jaká v nich poesie!
 
-  
+</section>
+
+<section>
 
 Jací tam velcí tvorové,  
 jaké jich touhy vzdorné,  
@@ -23,7 +27,9 @@ nezdolné, světoborné!
      jaký zas výblesk radosti,  
      výskavé, šlehavé plesy!
 
-  
+</section>
+
+<section>
 
 Jaká tam slova hluboká,  
 jaká v nich nadšení záře!  
@@ -33,3 +39,5 @@ jaké tam oslnné tváře!
      jaká tam lásky tíseň —  
      chtěl bych za cenu života  
      procítit slunečnou píseň!
+
+</section>
