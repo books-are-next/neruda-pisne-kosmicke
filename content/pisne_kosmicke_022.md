@@ -1,6 +1,6 @@
 ---
 title: XVI\.
-contentType: prose
+contentType: poetry
 ---
 
 Báječně krásný to přec byl sen,  
@@ -11,10 +11,14 @@ Krásný to sen, a přec jen sen,
 ze světů zbyl nám jeden jen —  
      jen Měsíček náš věrný.
 
+  
+
 Měsíček ze všech sám a sám  
 okolo nás se točí,  
 sprovází Zemi životem  
      a nespouští ji z očí.
+
+  
 
 Děvčátko, lidské poupátko,  
 Měsíčku sobě všimni:  

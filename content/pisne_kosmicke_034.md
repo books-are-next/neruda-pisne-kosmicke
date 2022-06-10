@@ -1,6 +1,6 @@
 ---
 title: XXVIII\.
-contentType: prose
+contentType: poetry
 ---
 
      Slunce je hvězda proměnná  
@@ -8,10 +8,14 @@ a člověk jeho tvorem —
 jak krásný je ten člověk přec  
 s svým ideálním vzdorem!
 
+  
+
      Vždyť i to Slunce oslnné  
 je samá, samá skvrna —  
 a člověk sám chce v světě být  
 jak z křišťálného zrna!
+
+  
 
      V jistém vždy Slunce období  
 se širším cloní kalem —  

@@ -1,6 +1,6 @@
 ---
 title: XVII\.
-contentType: prose
+contentType: poetry
 ---
 
 Měsíček že je mrtvý muž?  
@@ -8,6 +8,8 @@ Měsíček že je mrtvý muž?
 při svaté lidstva osvětě?  
      Pak není širém ve světě  
      nad takové skonání!
+
+  
 
 Chtěl bych, až jednou dokonám,  
 — odpusťte hvězdné touze —  

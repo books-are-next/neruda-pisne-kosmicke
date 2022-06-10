@@ -1,12 +1,14 @@
 ---
 title: XII\.
-contentType: prose
+contentType: poetry
 ---
 
 Všechny ty vířivé planety,  
      s měsíci přílepky,  
 vylétly do světa širého  
      ze Slunce z kolébky.
+
+  
 
 Všechny ty vířivé planety  
      za svoji za dobu  

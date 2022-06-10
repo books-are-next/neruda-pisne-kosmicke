@@ -1,12 +1,14 @@
 ---
 title: XXXV\.
-contentType: prose
+contentType: poetry
 ---
 
      Přijdou dnové, léta, věky, věků věky.  
 Kolem Slunce mdlobou hasnoucího  
 kroužit budou planet mrtvoly.  
 Země bude siná, tichá, němá.
+
+  
 
                Dávno bude po všech lidstva synech —  
           v prach a jíní rozpadla se těla,  
@@ -20,6 +22,8 @@ Země bude siná, tichá, němá.
           všechen život v mraznou ztuhnul plíseň,  
           bol i radost v kámen ztuhly spolu.
 
+  
+
                K příkrovnímu, lhostejnému nebi  
           povrch Země příšerně se šklebí,  
           Zem je samá dlouhá, hlubná vráska.  
@@ -28,6 +32,8 @@ Země bude siná, tichá, němá.
           Země puká tiše, nezapraská,  
           Zem se trhá tiše, beze zvuku,  
           Zem je němá, dožila svou muku. —
+
+  
 
      Přejdou dnové, léta, věky, věků věky.  
 Šerou prostorou jak černá rakev  

@@ -1,6 +1,6 @@
 ---
 title: XXXII\.
-contentType: prose
+contentType: poetry
 ---
 
 Myslím, že malý Měsíček  
@@ -12,6 +12,8 @@ poety má již krále.
      jaká tam budou srdce as,  
      jaká v nich poesie!
 
+  
+
 Jací tam velcí tvorové,  
 jaké jich touhy vzdorné,  
 jaké v jich očích myšlénky  
@@ -20,6 +22,8 @@ nezdolné, světoborné!
      jaké tam v prsou běsy,  
      jaký zas výblesk radosti,  
      výskavé, šlehavé plesy!
+
+  
 
 Jaká tam slova hluboká,  
 jaká v nich nadšení záře!  

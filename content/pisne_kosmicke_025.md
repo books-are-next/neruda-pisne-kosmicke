@@ -1,6 +1,6 @@
 ---
 title: XIX\.
-contentType: prose
+contentType: poetry
 ---
 
 Oblaky Země jsou synové tkliví,  
@@ -10,6 +10,8 @@ mladí jí líce a svěží jí vlásky,
 ve světů závratně vířivém honu  
 od věků přes věky do časů skonu  
      nesou si matku jak v bavlnce měkce.
+
+  
 
 Oblaky, oblaky, labutí křídla,  
 šedivé hádanky, mlhová vřídla,  

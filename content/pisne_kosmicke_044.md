@@ -1,6 +1,6 @@
 ---
 title: XXXVIII\.
-contentType: prose
+contentType: poetry
 ---
 
 Až planety sklesnou k Slunci zpět  
@@ -12,6 +12,8 @@ si v divokou elipsu zabočí,
      se vesmírem dalekým promete  
      přes milion, milion věků;
 
+  
+
 až konečně někde v koutečku  
 se po letu dlouhém zastaví  
 a prášek z nás světů bývalých  
@@ -20,6 +22,8 @@ se ve nový chaos tam rozžhaví,
      boj titánský poznovu vzplane  
      a z plamenů žárných až nový svět  
      jak čarovný fénix zas vstane;
+
+  
 
 až na novém, kyprém světě tom,  
 boj ustoupí mladu životu  

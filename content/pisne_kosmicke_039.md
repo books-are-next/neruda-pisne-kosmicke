@@ -1,6 +1,6 @@
 ---
 title: XXXIII\.
-contentType: prose
+contentType: poetry
 ---
 
 Již vyznám se ze všech hříchů svých,  
@@ -8,15 +8,21 @@ Již vyznám se ze všech hříchů svých,
 a miluju-li já k smrti rád,  
      že ještě se raděj peru.
 
+  
+
 Vím, vím, že je krásným celibát,  
      též humanistů ctím víru,  
 již myšlénkou čistou pracují  
      ku „věčnému“ v lidstvu míru.
 
+  
+
 Však mateřské Slunce prajinak  
      náš osud kdys upravilo  
 a Zem mezi Marsa, Venuši  
      tak doprostřed postavilo.
+
+  
 
 A marno je všechno kázání  
      a marna je všechna práce,  

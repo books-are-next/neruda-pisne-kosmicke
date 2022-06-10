@@ -1,16 +1,20 @@
 ---
 title: XXXIV\.
-contentType: prose
+contentType: poetry
 ---
 
                     Promluvme sobě spolu,  
                     co je v tom světě širokém,  
                     co je tu, co je bolu!
 
+  
+
      Kde rozvoj je, je boj — po světě boj je všude  
 a bez mrtvol zde nejsou přetvary,  
 i hudba sfér jen války píseň hude  
 a věčně v útok znějí fanfáry!
+
+  
 
 Ta slunce veškerá, než vojevodí,  
 se slunci kol titánské boje vodí,  

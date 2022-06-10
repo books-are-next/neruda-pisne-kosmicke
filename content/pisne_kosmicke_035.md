@@ -1,6 +1,6 @@
 ---
 title: XXIX\.
-contentType: prose
+contentType: poetry
 ---
 
 Měsíček mrtvý — budoucnost,  
@@ -10,6 +10,8 @@ myšlénka života plaše.
      Vířivě časy se valí,  
      minulost, přítomnost, budoucnost —  
      ach, jedna se ve druhou halí.
+
+  
 
 Někdy se mezi Měsíček  
 a Slunko stavíme směle,  

@@ -1,6 +1,6 @@
 ---
 title: VII\.
-contentType: prose
+contentType: poetry
 ---
 
      Po nebi hvězdic je rozseto  
@@ -12,6 +12,8 @@ dech času je měrně provádí
           mistře v početním cviku,  
                nespočteš tanečníků!
 
+  
+
 Vesele se Zemí Měsíc jde,  
      Země zas v mocném kruhu  
 se okolo Slunce otáčí  
@@ -20,6 +22,8 @@ se okolo Slunce otáčí
           kolem většího vede nás —  
           a toto slunce jeho  
                _kde jde? — a kolem čeho?_
+
+  
 
      Mysli se nejvýš — a nad tebou  
      hvězd jako vřesných zvonců —,  

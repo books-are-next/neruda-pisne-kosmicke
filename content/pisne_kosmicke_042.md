@@ -1,6 +1,6 @@
 ---
 title: XXXVI\.
-contentType: prose
+contentType: poetry
 ---
 
 Aj, tamhle dřímavých jiskerek,  
@@ -12,6 +12,8 @@ kostnice umrlých světů.
      v ní veliký obsah, málo slov:  
      „Ty popel jsi, popel budeš!“
 
+  
+
 A tamhle zásvit zas jako sen,  
 jak když den se rozbřesknout bojí,  
 tam prach se k novému životu  
@@ -20,6 +22,8 @@ v nebeském zákoutí pojí.
      mlžino mladě žhnoucí,  
      jakž ku srdci sáhá píseň tvá:  
      „Zas vstanete s lící skvoucí!“
+
+  
 
 Ó hvězdy, hymny vy zářivé,  
 naslouchám vám v roznětu svatém,  
