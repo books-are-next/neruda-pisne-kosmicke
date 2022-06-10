@@ -3,18 +3,24 @@ title: XXXIV\.
 contentType: poetry
 ---
 
-                    Promluvme sobě spolu,  
+<section>
+
+Promluvme sobě spolu,  
                     co je v tom světě širokém,  
                     co je tu, co je bolu!
 
-  
+</section>
+
+<section>
 
      Kde rozvoj je, je boj — po světě boj je všude  
 a bez mrtvol zde nejsou přetvary,  
 i hudba sfér jen války píseň hude  
 a věčně v útok znějí fanfáry!
 
-  
+</section>
+
+<section>
 
 Ta slunce veškerá, než vojevodí,  
 se slunci kol titánské boje vodí,  
@@ -53,3 +59,5 @@ v den druhý štěstí prchá poskokem
 a obě srdce letí v propast dolů —  
                     co je v tom světě širokém,  
                     co je tu, co je bolu!
+
+</section>

@@ -3,6 +3,8 @@ title: XXXVIII\.
 contentType: poetry
 ---
 
+<section>
+
 Až planety sklesnou k Slunci zpět  
 a mrazem se Slunce rozskočí,  
 až drobty ty, smrtí poštvány,  
@@ -12,7 +14,9 @@ si v divokou elipsu zabočí,
      se vesmírem dalekým promete  
      přes milion, milion věků;
 
-  
+</section>
+
+<section>
 
 až konečně někde v koutečku  
 se po letu dlouhém zastaví  
@@ -23,7 +27,9 @@ se ve nový chaos tam rozžhaví,
      a z plamenů žárných až nový svět  
      jak čarovný fénix zas vstane;
 
-  
+</section>
+
+<section>
 
 až na novém, kyprém světě tom,  
 boj ustoupí mladu životu  
@@ -33,3 +39,5 @@ a háj plný sladkého šumotu,
      tvor se srdcem, se zpěvnou tísní:  
      pak snad zase drobounký atom můj  
      tam zazvoní kosmickou písní!
+
+</section>

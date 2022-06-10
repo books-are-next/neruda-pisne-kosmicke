@@ -3,7 +3,9 @@ title: VII\.
 contentType: poetry
 ---
 
-     Po nebi hvězdic je rozseto  
+<section>
+
+Po nebi hvězdic je rozseto  
      lesem jak zvonců vřesných,  
 dech času je měrně provádí  
      v jásavých kruzích plesných.  
@@ -12,7 +14,9 @@ dech času je měrně provádí
           mistře v početním cviku,  
                nespočteš tanečníků!
 
-  
+</section>
+
+<section>
 
 Vesele se Zemí Měsíc jde,  
      Země zas v mocném kruhu  
@@ -23,7 +27,9 @@ se okolo Slunce otáčí
           a toto slunce jeho  
                _kde jde? — a kolem čeho?_
 
-  
+</section>
+
+<section>
 
      Mysli se nejvýš — a nad tebou  
      hvězd jako vřesných zvonců —,  
@@ -33,3 +39,5 @@ a kdybys byl jako Slunce stár,
           myšlénka letí světům vstříc —  
           vysoko — převysoko —  
                a slza vhrkla v oko.
+
+</section>

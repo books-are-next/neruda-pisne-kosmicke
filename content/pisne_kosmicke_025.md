@@ -3,6 +3,8 @@ title: XIX\.
 contentType: poetry
 ---
 
+<section>
+
 Oblaky Země jsou synové tkliví,  
 matičku Zemi si krví svou živí,  
 slzami smývají starobné vrásky,  
@@ -11,7 +13,9 @@ ve světů závratně vířivém honu
 od věků přes věky do časů skonu  
      nesou si matku jak v bavlnce měkce.
 
-  
+</section>
+
+<section>
 
 Oblaky, oblaky, labutí křídla,  
 šedivé hádanky, mlhová vřídla,  
@@ -20,3 +24,5 @@ růžové kolébky, rakevní mraky,
 nesete praotců poslední vzdechy,  
 nesete potomkům první jich dechy —  
      zdravím vás, zašlosti, přišlosti lidská!
+
+</section>
