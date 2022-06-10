@@ -1,6 +1,6 @@
 ---
 title: XXVII\.
-contentType: prose
+contentType: poetry
 ---
 
 Kdo měkkým je, ten bídně mře!  
@@ -9,11 +9,15 @@ velká ta světla — samý drak —
      had hada-li nepozře,  
      drakem se nestane!
 
+  
+
 Boj, všude boj, kam oko zře!  
 I věčné slunce, chce-li žít,  
 musí se kolem s slunci bít —  
      had hada-li nepozře,  
      drakem se nestane!
+
+  
 
 Klam, v národech že láska vře!  
 Ach neposlouchej hravých vnad,  

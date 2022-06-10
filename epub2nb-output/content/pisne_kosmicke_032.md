@@ -1,6 +1,6 @@
 ---
 title: XXVI\.
-contentType: prose
+contentType: poetry
 ---
 
 Vzhůru již hlavu, národe,  
@@ -11,6 +11,8 @@ kol nichž se velké točí!
      z jadrného jsou fládru,  
      ale ty velké a poslušné  
      jen z plynových jsou hadrů.
+
+  
 
 Troufám, že při té myšlénce  
 srdce ti povyskočí —  

@@ -1,12 +1,14 @@
 ---
 title: XVIII\.
-contentType: prose
+contentType: poetry
 ---
 
      Měsíc mrtev. Při něm ve prodlení  
 den se s nocí střídá jak dvé mnichů,  
 jak dvé mnichů, ne víc ku obsluze,  
 jen co mrtvých stráže na modlení.
+
+  
 
      Střídají se v svatém, hlubném tichu,  
 beze smavých červánkových hříček:  
@@ -43,6 +45,8 @@ zima, zima, mráz až v báj rostoucí —
      by tam bylo srdéčko kés vroucí,  
      v jednom trhlo by se okamžení,  
      ale není tam to srdce — není!
+
+  
 
      Měsíc mrtev. Siná jeho stále  
 tvář sem na nás hledí v stejném příznaku,  

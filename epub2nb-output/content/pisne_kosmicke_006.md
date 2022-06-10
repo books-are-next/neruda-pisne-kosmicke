@@ -1,7 +1,7 @@
 ---
 title: ''
 hiddenTitle: true
-contentType: prose
+contentType: poetry
 ---
 
 _Vlnek jsem chtěl nabrat z hbitých proudů,_

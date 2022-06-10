@@ -1,14 +1,20 @@
 ---
 title: XX\.
-contentType: prose
+contentType: poetry
 ---
 
+  
+
 _(Mluvíval člověk:)_
+
+  
 
 Čím člověk já ve světů kruhu jsem?  
 Mně skromnost má jazyk víže —  
 však pohleďte někam ke dvoru,  
 hned znáte, kdo sluha, kdo kníže.
+
+  
 
 Já Slunci a Siriu říkám „ty“,  
 a ony! — Vzdor skvělé záři  

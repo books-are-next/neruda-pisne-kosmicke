@@ -1,6 +1,6 @@
 ---
 title: VIII\.
-contentType: prose
+contentType: poetry
 ---
 
      Poeto Světe! Co jsi aeón prožil,  
@@ -13,6 +13,8 @@ než mladé Zemi řekl’s: „Oživuj!“,
 poprvé nechal mladé srdce tlouci,  
 odevřel oko lidské: „Obdivuj!“
 
+  
+
      Poeto Světe! Hymnus tvůj je věčný!  
 Tvá každá sloka má svůj život pučný,  
 a když jej vykvete, dá mrtvol zvučný  
@@ -23,6 +25,8 @@ kam, kam se křídla hymnu rozkládají?!
 Když mořem vanou, moře z dna se bouří,  
 když zemí vanou, země k nebi kouří,  
 když nebem vanou, světům dech se tají!
+
+  
 
      Poeto Světe, co tvůj hymnus kryje,  
 co vše v něm mře, co nesmrtelno žije!  
@@ -40,6 +44,8 @@ a není touhy, by jím nevanula,
 a není lásky, by v něm neplanula,  
 a není srdcí se vším citem svojím,  
 by netloukla v tom velkém hymnu tvojím!
+
+  
 
      Poeto Světe! Poetů jsi bohem,  
 a přec — jsi poetou jen _všech_ poetů slohem.  

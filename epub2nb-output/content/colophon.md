@@ -5,12 +5,11 @@ title: Tiráž
 **Jan Neruda    
 Písně kosmické**  
 Edice Poezie  
-Ilustrace na obálce z Pixabay.com  
 Redakce Jaroslava Bednářová  
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
 V MKP 2. elektronické vydání  
-1. vydání z 12. 5. 2022.
+1. vydání z 10. 6. 2022.
 
 ***
 
@@ -24,7 +23,7 @@ Text díla (Jan Neruda: Písně kosmické), publikovaného [Městskou knihovnou
 
 Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož autorem je Městská knihovna v Praze, podléhá licenci [Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko](https://creativecommons.org/licenses/by-nc-sa/3.0/cz/).
 
-  
 
+  
 
 ![](../Images/image004.jpg)
