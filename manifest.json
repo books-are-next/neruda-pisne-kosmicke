@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "neruda-pisne-kosmicke-daeb08a",
-  "revision": "daeb08a",
+  "identifier": "neruda-pisne-kosmicke-10a16f7",
+  "revision": "10a16f7",
   "readingOrder": [
     "promo.html",
     "pisne_kosmicke_005.html",
@@ -54,8 +54,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 17:53:17 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654883597475
+    "date": "Sat Jun 11 2022 12:07:18 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654949238672
   },
   "documents": [
     {
