@@ -14,7 +14,7 @@ Země bude siná, tichá, němá.
 
 <section>
 
-               Dávno bude po všech lidstva synech —  
+            Dávno bude po všech lidstva synech —  
           v prach a jíní rozpadla se těla,  
           dávno bude po všech slávy činech —  
           touha někam v vesmír odletěla;  
@@ -30,7 +30,7 @@ Země bude siná, tichá, němá.
 
 <section>
 
-               K příkrovnímu, lhostejnému nebi  
+            K příkrovnímu, lhostejnému nebi  
           povrch Země příšerně se šklebí,  
           Zem je samá dlouhá, hlubná vráska.  
           Mrazný éter do povrchu pere,  
@@ -49,7 +49,7 @@ Země krouží slábnouc, slábnouc v letu,
 jak když orel těžce postřelený  
 ve spirále děsně obrovité  
 dolů letí — letí — letí —  
-              Dopadne Země k Slunci zpět,  
+            Dopadne Země k Slunci zpět,  
           ze Slunce šlehne plamů květ  
           jak života na úsvitě,  
           a vzdálené hvězdy a širý Svět  

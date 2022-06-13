@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "neruda-pisne-kosmicke-10a16f7",
-  "revision": "10a16f7",
+  "identifier": "neruda-pisne-kosmicke-9acf857",
+  "revision": "9acf857",
   "readingOrder": [
     "promo.html",
     "pisne_kosmicke_005.html",
@@ -54,8 +54,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 12:07:18 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654949238672
+    "date": "Mon Jun 13 2022 21:55:59 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157359629
   },
   "documents": [
     {
@@ -873,9 +873,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 83,
-      "chars": 540,
-      "ideas": 7,
+      "words": 116,
+      "chars": 716,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "pisne_kosmicke_044.html",
@@ -893,9 +893,9 @@
   ],
   "totals": {
     "all": {
-      "words": 4332,
-      "chars": 23076,
-      "ideas": 881
+      "words": 4365,
+      "chars": 23252,
+      "ideas": 890
     },
     "chapters": {
       "words": 4244,

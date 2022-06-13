@@ -14,6 +14,6 @@ _donesl jsem ale sobě domů_
 
 _tichou vodu jenom ve nádobě._
 
-                                                   LEANDER
+            LEANDER
 
 </section>
