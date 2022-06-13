@@ -6,8 +6,8 @@ contentType: poetry
 <section>
 
 Promluvme sobě spolu,  
-                    co je v tom světě širokém,  
-                    co je tu, co je bolu!
+            co je v tom světě širokém,  
+            co je tu, co je bolu!
 
 </section>
 
@@ -28,8 +28,8 @@ a každá planeta jich s druhou v turnaj ješí,
 než šťastna, vítězna se domovině těší;  
 tak zuří boj až k drobným žhounkám dolů  
 po nebes klenu hlubokém —  
-                    co je v tom světě širokém,  
-                    co je tu, co je bolu!  
+            co je v tom světě širokém,  
+            co je tu, co je bolu!  
 A naše Zem? Kde nové vzrůstá, staré hyne,  
 ach celá Zem je mrtvých oudolí,  
 skrz mrtvých troucheň květ se k světlu vine —  
@@ -42,8 +42,8 @@ Co horou zde, to hromada je kostí,
 co údolem, to šachta budoucnosti,  
 a čas v ni hází ve dnů běhu divokém  
 mrtvolu na mrtvolu —  
-                    co je v tom světě širokém,  
-                    co je tu, co je bolu!  
+            co je v tom světě širokém,  
+            co je tu, co je bolu!  
      A člověk — člověk! Štědrá byla ruka,  
 jež ohně vrhla lidských do stanů —  
 co srdce cit, to žhoucí lidská muka,  
@@ -57,7 +57,7 @@ Jen ranní sen je všechno milování,
 den jsou dvě srdce lidská šťastna spolu,  
 v den druhý štěstí prchá poskokem  
 a obě srdce letí v propast dolů —  
-                    co je v tom světě širokém,  
-                    co je tu, co je bolu!
+            co je v tom světě širokém,  
+            co je tu, co je bolu!
 
 </section>

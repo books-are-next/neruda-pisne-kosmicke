@@ -12,7 +12,7 @@ dech času je měrně provádí
           Vidíme plesu jenom cíp —  
           zkoumej a čítej sebelíp,  
           mistře v početním cviku,  
-               nespočteš tanečníků!
+            nespočteš tanečníků!
 
 </section>
 
@@ -25,7 +25,7 @@ se okolo Slunce otáčí
           A i to velké Slunce zas  
           kolem většího vede nás —  
           a toto slunce jeho  
-               _kde jde? — a kolem čeho?_
+            _kde jde? — a kolem čeho?_
 
 </section>
 
@@ -38,6 +38,6 @@ a kdybys byl jako Slunce stár,
           Klečím a hledím v nebe líc,  
           myšlénka letí světům vstříc —  
           vysoko — převysoko —  
-               a slza vhrkla v oko.
+            a slza vhrkla v oko.
 
 </section>
