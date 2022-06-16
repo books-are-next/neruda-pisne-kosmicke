@@ -8,7 +8,8 @@
       "author": "Jan Neruda",
       "publisher": "Městská knihovna v Praze",
       "modified": "2022-01-07T00:00:00.000Z",
-      "publisherShort": "mkp"
+      "publisherShort": "mkp",
+      "edition": "poezie"
     },
     "elements": {
       "title": "MLP_uroven2_basne",
@@ -962,6 +963,6 @@
       "user": "books-are-next",
       "repo": "neruda-pisne-kosmicke"
     },
-    "generatedAt": 1655271575395
+    "generatedAt": 1655364253196
   }
 }

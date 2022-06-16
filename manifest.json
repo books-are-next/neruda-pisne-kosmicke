@@ -5,10 +5,11 @@
   "title": "Písně kosmické",
   "author": "Jan Neruda",
   "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "neruda-pisne-kosmicke-0208225",
-  "revision": "0208225",
+  "identifier": "neruda-pisne-kosmicke-37bfebb",
+  "revision": "37bfebb",
   "readingOrder": [
     "promo.html",
     "pisne_kosmicke_005.html",
@@ -54,8 +55,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:53:32 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272412157
+    "date": "Thu Jun 16 2022 07:31:46 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655364706984
   },
   "documents": [
     {
@@ -893,9 +894,9 @@
   ],
   "totals": {
     "all": {
-      "words": 4379,
-      "chars": 23359,
-      "ideas": 890
+      "words": 4380,
+      "chars": 23365,
+      "ideas": 891
     },
     "chapters": {
       "words": 4244,
