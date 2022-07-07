@@ -55,7 +55,7 @@ readingOrder:
   - pisne_kosmicke_042.html
   - pisne_kosmicke_043.html
   - pisne_kosmicke_044.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
