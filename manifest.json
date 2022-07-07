@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "neruda-pisne-kosmicke-9e968e8",
-  "revision": "9e968e8",
+  "identifier": "neruda-pisne-kosmicke-ddd64da",
+  "revision": "ddd64da",
   "readingOrder": [
     "promo.html",
     "pisne_kosmicke_005.html",
@@ -52,11 +52,11 @@
     "pisne_kosmicke_042.html",
     "pisne_kosmicke_043.html",
     "pisne_kosmicke_044.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:17:13 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979433505
+    "date": "Thu Jul 07 2022 08:34:54 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182894268
   },
   "documents": [
     {
@@ -860,7 +860,7 @@
       "role": "chapter",
       "order": 40,
       "prev": "pisne_kosmicke_043.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -873,11 +873,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 130,
-      "chars": 823,
+      "chars": 822,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "pisne_kosmicke_044.html",
       "next": null,
@@ -895,7 +895,7 @@
   "totals": {
     "all": {
       "words": 4380,
-      "chars": 23365,
+      "chars": 23364,
       "ideas": 891
     },
     "chapters": {
