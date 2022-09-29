@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "neruda-pisne-kosmicke-d042889",
-  "revision": "d042889",
+  "identifier": "neruda-pisne-kosmicke-a19cb01",
+  "revision": "a19cb01",
   "readingOrder": [
     "promo.html",
     "pisne_kosmicke_005.html",
@@ -55,8 +55,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:43:51 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414631026
+    "date": "Thu Sep 29 2022 21:29:49 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486989689
   },
   "documents": [
     {
