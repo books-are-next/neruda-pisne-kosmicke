@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "neruda-pisne-kosmicke-1c9c34b",
-  "revision": "1c9c34b",
+  "identifier": "neruda-pisne-kosmicke-714dfd1",
+  "revision": "714dfd1",
   "readingOrder": [
     "promo.html",
     "pisne_kosmicke_005.html",
@@ -55,8 +55,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:00:02 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151202475
+    "date": "Mon Oct 10 2022 15:51:55 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417115602
   },
   "documents": [
     {
@@ -875,7 +875,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 127,
-      "chars": 823,
+      "chars": 824,
       "ideas": 13,
       "role": "about",
       "order": null,
@@ -895,7 +895,7 @@
   "totals": {
     "all": {
       "words": 4377,
-      "chars": 23365,
+      "chars": 23366,
       "ideas": 888
     },
     "chapters": {
